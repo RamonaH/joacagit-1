@@ -1,2 +1,1 @@
-cucbau
-afara
+echo "ana are mere"
